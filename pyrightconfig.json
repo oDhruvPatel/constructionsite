@@ -1,0 +1,8 @@
+{
+    "venvPath": ".",
+    "venv": "genai",
+    "include": [
+        "src",
+        "."
+    ]
+}
